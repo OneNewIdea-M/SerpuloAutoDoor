@@ -6,3 +6,5 @@ Large auto door — An auto door for *Serpulo*, but 2x2.
 English,
 Russian,
 Ukrainian.
+
+*Game version: 155.4*
