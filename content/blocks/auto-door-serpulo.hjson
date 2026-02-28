@@ -1,0 +1,12 @@
+type: AutoDoor
+name: Auto door
+description: You finally have an automatic door on Serpulo!
+size: 1
+health: 400
+requirements: [
+    titanium/6
+    graphite/4
+    silicon/4
+]
+category: defense
+research: door

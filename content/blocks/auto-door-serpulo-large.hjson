@@ -1,0 +1,12 @@
+type: AutoDoor
+name: Large auto door
+description: Big Serpulo automatic door.
+size: 2
+health: 1600
+requirements: [
+    titanium/24
+    graphite/16
+    silicon/16
+]
+category: defense
+research: auto-door-serpulo

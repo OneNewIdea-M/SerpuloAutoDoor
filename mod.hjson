@@ -1,0 +1,13 @@
+name: serpulo-auto-door
+displayName: Serpulo Auto Door
+description:
+'''
+Adds an auto doors for Serpulo.
+
+Available languages: English, Russian, Ukrainian.
+
+Author: SmokeMachine (RealSlave)
+'''
+author: OneNewIdea-M
+version: 1.0.2
+minGameVersion: 155.4
