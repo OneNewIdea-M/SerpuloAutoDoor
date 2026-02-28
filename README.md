@@ -7,4 +7,4 @@ English,
 Russian,
 Ukrainian.
 
-*Game version: 155.4*
+*Game version: 155.4+*
